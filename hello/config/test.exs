@@ -14,7 +14,7 @@ config :hello, Hello.Repo,
 # you can enable the server option below.
 config :hello, HelloWeb.Endpoint,
   http: [ip: {127, 0, 0, 1}, port: 4002],
-  secret_key_base: "dDjGUFvOmfOZDkrUmZsqEMQxnfL5GpJFPy0Z6AHiOw8i8LZzUoWEnKgad5vL05hm",
+  secret_key_base: "ncAm41no6/JcAS06RWoG1VZ1cRw/Pi7uHKG4qcuOpo/If/WoA2wC7ydPrvchh3Rj",
   server: false
 
 # In test we don't send emails.

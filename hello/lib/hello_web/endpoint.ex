@@ -7,7 +7,7 @@ defmodule HelloWeb.Endpoint do
   @session_options [
     store: :cookie,
     key: "_hello_key",
-    signing_salt: "diUJqukA",
+    signing_salt: "f3/r62Xo",
     same_site: "Lax"
   ]
 

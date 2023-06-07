@@ -20,7 +20,7 @@ config :hello, HelloWeb.Endpoint,
   check_origin: false,
   code_reloader: true,
   debug_errors: true,
-  secret_key_base: "pP8Sws4ZlLzHvFujTEKPMI3xx/9NgtaxRlKaOO1BV+BnGBlxyVyQklVTyVen7aOB",
+  secret_key_base: "OlOUhGejzomjKk4xbwxzpNAMqSwJMyroZxUjt4zv0bn/Xu6nh1COuc7HyvVq4KeW",
   watchers: [
     esbuild: {Esbuild, :install_and_run, [:default, ~w(--sourcemap=inline --watch)]},
     tailwind: {Tailwind, :install_and_run, [:default, ~w(--watch)]}
